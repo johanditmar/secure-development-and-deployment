@@ -62,7 +62,7 @@ The following measures can help you to understand and reduce these risks:
   Educate users and trust them to do the right thing. Implement functions to verify their activity, and to detect suspicious activity or potential compromise.
 
 * **Reduce the attack surface of your developer environment**  
-  Apply the [NCSC end user device guidance](https://www.ncsc.gov.uk/guidance/end-user-device-security) to your development environment. Be pragmatic in the selection of your security controls so that you don't hinder development. Consider the security mitigation technology provided by devices and operaring systems when selecting your devices and environments.
+  Apply the [NCSC end user device guidance](https://www.ncsc.gov.uk/guidance/end-user-device-security) to your development environment. Be pragmatic in the selection of your security controls so that you don't hinder development. Consider the security mitigation technology provided by devices and operating systems when selecting your devices and environments.
 
 * **Protect access credentials and secret keys**  
   Carefully consider how you store and handle credentials that grant access to critical services and systems. Using multi-factor authentication will mean that stolen passwords are not sufficient on their own to gain unauthorised access. Use a least privilege access model and revoke any credentials which may have been compromised, or are no longer needed.
